@@ -45,4 +45,11 @@ def main():
     print(config['welcome_message'])
 
 if __name__ == "__main__":
-    main()
+
+ {
+    "project_name": "tamom-zendegi",
+    "version": "1.0.0",
+    "author": "Mojtaba",
+    "welcome_message": "Welcome to tamom-zendegi — clean, structured, ready to grow 🚀"
+}
+
