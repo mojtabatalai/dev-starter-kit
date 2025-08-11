@@ -38,12 +38,7 @@ def setup_logger():
 
 # -------------------- MAIN FUNCTION --------------------
 def main():
-    setup_logger()
-    config = load_config()
-    logging.info(f"Starting project: {config['project_name']} v{config['version']}")
-    logging.info(f"Author: {config['author']}")
-    print(config['welcome_message'])
-
+   
 if __name__ == "__main__":
 
  {
