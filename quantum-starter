@@ -1,0 +1,30 @@
+# quantum-starter
+
+> Modular Python starter project with professional structure, CLI, logging, and CI/CD ready.
+
+---
+
+## 🚀 Project Status
+- **Status:** Ready for development
+- **Language:** Python
+- **License:** MIT
+
+---
+
+## 🔍 Features
+- CLI tool with multiple commands
+- Logging with verbose mode
+- Modular folder structure
+- Unit tests included
+- GitHub Actions CI workflow
+
+---
+
+## 🛠️ Installation
+```bash
+git clone https://github.com/<username>/quantum-starter.git
+cd quantum-starter
+python -m venv .venv
+source .venv/bin/activate   # macOS/Linux
+.venv\Scripts\activate      # Windows
+pip install -r requirements.txt  # optional
