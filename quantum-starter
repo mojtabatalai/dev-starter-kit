@@ -15,7 +15,6 @@
 - CLI tool with multiple commands
 - Logging with verbose mode
 - Modular folder structure
-- Unit tests included
 - GitHub Actions CI workflow
 
 ---
