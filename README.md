@@ -41,5 +41,36 @@ def setup_logger():
     "version": "1.0.0",
     "author": "Mojtaba",
     "welcome_message": "Welcome to tamom-zendegi — clean, structured, ready to grow 🚀"
-}
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Project: dev-startup-kit
+Description: A clean and professional starter code with logging, config, and CLI entry point.
+Author: Your Name
+"""
+
+import argparse
+import logging
+import sys
+from datetime import datetime
+
+
+# -----------------------------
+# Logging Setup
+# -----------------------------
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
+
+logger = logging.getLogger(__name__)
+
+
+# -----------------------------
+# Core Functionality
+# -----------------------------
+def greet_user(name: str) -> str:
+    """
+
 
