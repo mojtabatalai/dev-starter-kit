@@ -5,10 +5,6 @@ A developer-friendly starter kit with best practices and structure
 tamom-zendegi — Professional Starter Script
 """
 
-import logging
-import json
-from pathlib import Path
-
 # -------------------- CONFIGURATION --------------------
 CONFIG_FILE = Path(__file__).parent / "config.json"
 
