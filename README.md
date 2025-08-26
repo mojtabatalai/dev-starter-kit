@@ -61,6 +61,6 @@ logging.basicConfig(
 # Core Functionality
 # -----------------------------
 def greet_user(name: str) -> str:
-    """
+    
 
 
