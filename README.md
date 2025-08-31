@@ -52,7 +52,7 @@ from datetime import datetime
 
 
 # -----------------------------
-# Logging Setup
+# Logging Setup one
 # -----------------------------
 logging.basicConfig(
     level=logging.INFO,
@@ -60,5 +60,3 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)]
 good powerful
 living fast
-
-
