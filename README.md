@@ -5,7 +5,7 @@ A developer-friendly starter kit with best practices and structure
 tamom-zendegi — Professional Starter Script
 """
 IMPORT LXP
-kos
+kos kir
 # -------------------- CONFIGURATION --------------------
 CONFIG_FILE = Path(__file__).parent / "config.json"
 
