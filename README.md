@@ -15,7 +15,10 @@ DEFAULT_CONFIG = {
     "author": "Your Name",
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
 }
+impo
 
+
+good
 def load_config():
     """Load configuration from file or use default."""
     if CONFIG_FILE.exists():
