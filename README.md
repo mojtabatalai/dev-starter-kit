@@ -14,8 +14,7 @@ DEFAULT_CONFIG = {
     "author": "Your Name",
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
 }
-impo
-
+import xp
 
 good
 def load_config():
