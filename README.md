@@ -15,7 +15,7 @@ DEFAULT_CONFIG = {
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
 }
 import xp
-
+gm 
 good
 def load_config():
     """Load configuration from file or use default."""
