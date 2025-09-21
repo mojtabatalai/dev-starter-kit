@@ -15,6 +15,7 @@ DEFAULT_CONFIG = {
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
 }
 import xp
+amazing goodf power
 gm 
 good
 def load_config():
