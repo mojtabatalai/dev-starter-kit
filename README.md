@@ -14,11 +14,27 @@ DEFAULT_CONFIG = {
     "author": "Your Name",
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
 }
-import xp
-amazing goodf power
-gm 
-good
-byyvc
+body {
+  font-family: Arial, sans-serif;
+  background: #101820;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 50px;
+}
+button {
+  margin: 10px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background: #00c4ff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover {
+  background: #009dcf;
+}
+
 def load_config():
     """Load configuration from file or use default."""
     if CONFIG_FILE.exists():
