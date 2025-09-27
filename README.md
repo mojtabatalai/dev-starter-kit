@@ -80,3 +80,20 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)]
 good powerful
 living fast
+# 🚀 Airdrop Project
+
+This project is a simple Ethereum airdrop contract with a frontend interface.
+
+## Features
+- Solidity smart contract for distributing ETH
+- Frontend for users to connect their wallet and claim rewards
+- Hardhat for development and deployment
+
+## Setup
+```bash
+git clone https://github.com/YOUR_USERNAME/airdrop-project.git
+cd airdrop-project
+npm install
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network sepolia
+
