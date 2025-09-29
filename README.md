@@ -97,4 +97,4 @@ npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network sepolia
 amazing app
-
+app lunched
