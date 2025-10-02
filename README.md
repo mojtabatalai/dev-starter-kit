@@ -13,8 +13,7 @@ DEFAULT_CONFIG = {
     "version": "1.0.0",
     "author": "Your Name",
     "welcome_message": "Hello! This is tamom-zendegi 🚀"
-}
-body {
+
   font-family: Arial, sans-serif;
   background: #101820;
   color: #f2f2f2;
