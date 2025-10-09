@@ -100,4 +100,4 @@ app lunched
 hjxhc bcbjcfy ghfuoo gjcy
 amazing gpluse
 Every time he shares something it’s not just information it’s direction his method is simple yet powerful break things down explain them clearly and never chase noise that consistency has built a level of trust few can match
-https://app.passport.xyz/#/dashboard
+
