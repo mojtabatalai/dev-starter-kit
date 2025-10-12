@@ -33,6 +33,7 @@ button {
 button:hover {
   background: #009dcf;
 }
+Does Grok 4 work best in reasoning tasks?
 
 def load_config():
     """Load configuration from file or use default."""
