@@ -104,3 +104,8 @@ Every time he shares something it’s not just information it’s direction his 
 M251167m@
 
 https://blockstreet.money/dashboard?invite_code=yzj7mU
+$10k+ in ETH just sent your way based on tiers.
+Royalties are yours to keep anyway.
+
+Stay Safu and $CHECK your wallets, mates.
+Markets could be rough, but Ethernals are forever.
