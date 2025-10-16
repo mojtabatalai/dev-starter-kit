@@ -110,3 +110,6 @@ Royalties are yours to keep anyway.
 Stay Safu and $CHECK your wallets, mates.
 Markets could be rough, but Ethernals are forever.
 [Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.](https://token.megaeth.com/)
+ Mint your Essentials
+ Verify your HAUST Score
+ Complete the Testnet OG Quest
