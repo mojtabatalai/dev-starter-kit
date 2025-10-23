@@ -107,5 +107,4 @@ $10k+ in ETH just sent your way based on tiers.
 Royalties are yours to keep anyway.
 https://testnet.pharosnetwork.xyz/experience
 Stay Safu and $CHECK your wallets, mates.
-Markets could be rough, but Ethernals are forever.
-[Rewards are managed by the presenter. Megaphone cannot guarantee delivery. For questions, contact the presenter directly.](https://token.megaeth.com/)
+amazing github
