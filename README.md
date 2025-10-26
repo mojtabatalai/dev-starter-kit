@@ -99,9 +99,7 @@ amazing app
 app lunched
 hjxhc bcbjcfy ghfuoo gjcy
 amazing gpluse
-Every time he shares something it’s not just information it’s direction his method is simple yet powerful break things down explain them clearly and never chase noise that consistency has built a level of trust few can match
-
-good poweful
+Every time he shares something it’s not just information it’s direction his method is simple yet powerful break things down explain them clearly and never chase noise that consistency has built 
 https://blockstreet.money/dashboard?invite_code=yzj7mU
 $10k+ in ETH just sent your way based on tiers.
 Royalties are yours to keep anyway.
