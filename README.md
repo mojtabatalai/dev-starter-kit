@@ -106,3 +106,4 @@ Royalties are yours to keep anyway.
 https://testnet.pharosnetwork.xyz/experience
 Stay Safu and $CHECK your wallets, mates.
 amazing github
+brevis devs went full giga brain with that zk coprocessor thing  
