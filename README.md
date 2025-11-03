@@ -106,3 +106,7 @@ Royalties are yours to keep anyway.
 https://testnet.pharosnetwork.xyz/experience
 Stay Safu and $CHECK your wallets, mates.
 amazing github
+50 million will be fully unlocked
+Remainder that is 34.38% will be vested for 36 months
+They will launch diff campaigns during 36 months Ig
+Btw chekcer and tge date revealed?
