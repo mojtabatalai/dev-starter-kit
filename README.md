@@ -100,3 +100,4 @@ Every time he shares something it’s not just information it’s direction his 
 https://blockstreet.money/dashboard?invite_code=yzj7mU
 $10k+ in ETH just sent your way based on tiers.
 Royalties are yours to keep anyway.
+This is not good to be honest. I would like to be in the OG pool and stake but want to take some profit like 20% or so. But if it's sum up then I can't.
