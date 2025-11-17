@@ -100,4 +100,6 @@ Every time he shares something it’s not just information it’s direction his 
 https://blockstreet.money/dashboard?invite_code=yzj7mU
 $10k+ in ETH just sent your way based on tiers.
 Royalties are yours to keep anyway.
-Hey, do you use AI mostly for productivity or creativity?
+
+me: just one more project
+also me after seeing gUmi: ok maybe two 😭
