@@ -102,3 +102,4 @@ $10k+ in ETH just sent your way based on tiers.
 Royalties are yours to keep anyway.
 Hey, do you use AI mostly for productivity or creativity?
 Did Qwen3 235B handle longer prompts better?
+"Create a vibrant, eye-catching billboard design for an agricultural store named 'Talayi Agricultural Inputs & Pesticides'. Use bright, energetic colors and a modern, clean illustration style. Include bold Farsi text saying 'فروشگاه سموم و نهاده‌های کشاورزی طلایی'. Add illustrated elements like fertilizer bags, spray bottles, pesticide containers, seeds, crops, wheat, and green leaves. The overall mood should be professional, colorful, and highly attractive to farmers. Big bold title, smooth gradients, dynamic shapes, and a sunny agricultural background. Ultra-sharp, high contrast, perfect for outdoor advertising."
