@@ -106,3 +106,9 @@ Did Qwen3 235B handle longer prompts better?
 "Create a vibrant, eye-catching billboard design for an agricultural store named 'Talayi Agricultural Inputs & Pesticides'. Use bright, energetic colors and a modern, clean illustration style. Include bold Farsi text saying 'فروشگاه سموم و نهاده‌های کشاورزی طلایی'. Add illustrated elements like fertilizer bags, spray bottles, pesticide containers, seeds, crops, wheat, and green leaves. The overall mood should be professional, colorful, and highly attractive to farmers. Big bold title, smooth gradients, dynamic shapes, and a sunny agricultural background. Ultra-sharp, high contrast, perfect for outdoor advertising."
 
 everyone talking noise meanwhile umi just vibing and building in silence 💆‍♂️
+“ethos guide sensei vibe”
+dude breaks down ethos like he’s been livin inside the system for years
+every guide he drops feels like someone finally turned the lights on
+he shows you the shortcuts the traps and the tiny details nobody talks about
+honestly feels like havin a mentor who wants you to actually win
+rare energy on x
