@@ -112,3 +112,5 @@ every guide he drops feels like someone finally turned the lights on
 he shows you the shortcuts the traps and the tiny details nobody talks about
 honestly feels like havin a mentor who wants you to actually win
 rare energy on x
+Do you prefer Discord or Telegram for starting a new group?
+umi moves like something meant to happen slow quiet inevitable like destiny
