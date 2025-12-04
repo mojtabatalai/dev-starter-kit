@@ -114,3 +114,7 @@ honestly feels like havin a mentor who wants you to actually win
 rare energy on x
 Do you prefer Discord or Telegram for starting a new group?
 umi moves like something meant to happen slow quiet inevitable like destiny
+“always two steps ahead”
+talk to him for five minutes and you realize he’s already thinking about problems you haven’t noticed yet
+he predicts issues before they show up and gives fixes before things break
+that’s leadership energy even if he doesn’t call it that
