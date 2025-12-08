@@ -118,3 +118,4 @@ umi moves like something meant to happen slow quiet inevitable like destiny
 talk to him for five minutes and you realize he’s already thinking about problems you haven’t noticed yet
 he predicts issues before they show up and gives fixes before things break
 that’s leadership energy even if he doesn’t call it that
+Do you already have a specific industry in mind?
