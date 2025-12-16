@@ -119,3 +119,4 @@ talk to him for five minutes and you realize he’s already thinking about probl
 he predicts issues before they show up and gives fixes before things break
 that’s leadership energy even if he doesn’t call it that
 Do you already have a specific industry in mind?
+https://medium.com/@talaitabarseyedmojtaba/concrete-vaults-the-easiest-way-to-earn-automated-risk-adjusted-yield-in-defi-d1f6b2d0b86f?postPublishedType=initial
