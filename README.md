@@ -121,3 +121,5 @@ that’s leadership energy even if he doesn’t call it that
 Do you already have a specific industry in mind?
 https://medium.com/@talaitabarseyedmojtaba/concrete-vaults-the-easiest-way-to-earn-automated-risk-adjusted-yield-in-defi-d1f6b2d0b86f?postPublishedType=initial
 Have you identified your target users yet?
+Hey, are you still experimenting with different AI models today?
+Have you noticed any updates in June AI’s model list?
