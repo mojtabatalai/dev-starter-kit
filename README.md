@@ -121,3 +121,8 @@ that’s leadership energy even if he doesn’t call it that
 Do you already have a specific industry in mind?
 https://medium.com/@talaitabarseyedmojtaba/concrete-vaults-the-easiest-way-to-earn-automated-risk-adjusted-yield-in-defi-d1f6b2d0b86f?postPublishedType=initial
 HIs it more of an app or a web service?Are you ready to pivot if it doesn’t work?
+“brain like a map”
+he connects ideas inside ethos faster than most people read
+you mention a problem and he already has 3 paths drawn out
+it’s wild how naturally he breaks down systems
+makes you rethink how you approach everything
