@@ -126,3 +126,4 @@ he connects ideas inside ethos faster than most people read
 you mention a problem and he already has 3 paths drawn out
 it’s wild how naturally he breaks down systems
 makes you rethink how you approach everything
+Will feedback be easy to collect inside the product?
