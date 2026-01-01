@@ -41,7 +41,7 @@ def load_config():
             return json.load(f)
     else:
         return DEFAULT_CONFIG
-
+to get mag 1 role bro you just engaging here once one of the leaders here noticed your output you will get it guaranteed
 # -------------------- LOGGING SETUP --------------------
 def setup_logger():
     """Configure logger with nice formatting."""
