@@ -129,3 +129,4 @@ makes you rethink how you approach everything
 Will feedback be easy to collect inside the product?
 Task 1 rejected - the image appears to be AI-generated artwork, which is explicitly disallowed. The smooth, rendered aesthetic, perfect lighting, and textures are characteristic of AI generation. Task 2 passed, as the post contains 30 words, discusses campfire cooking, tags @DataHaven_xyz, and uses genuine language.
 vaults basically absorb the complexity
+Was Qwen3 32B your first pick again?
