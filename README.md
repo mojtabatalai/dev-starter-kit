@@ -131,3 +131,5 @@ Task 1 rejected - the image appears to be AI-generated artwork, which is explici
 vaults basically absorb the complexity
 Was Qwen3 32B your first pick again?
 You have to reply to the correct tweet to claim this quest!
+🦊 Ossenna's Design Challenge: Vera's Dream Burrow
+A quiet, towering library with sunlight-filtering windows, organized archives, and hidden observation nooks. Perfect for Vera’s analytical mind, letting her study, reflect, and monitor Camp Haven in peace. @DataHaven_xyz
