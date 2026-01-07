@@ -133,3 +133,4 @@ Was Qwen3 32B your first pick again?
 You have to reply to the correct tweet to claim this quest!
 🦊 Ossenna's Design Challenge: Vera's Dream Burrow
 A quiet, towering library with sunlight-filtering windows, organized archives, and hidden observation nooks. Perfect for Vera’s analytical mind, letting her study, reflect, and monitor Camp Haven in peace. @DataHaven_xyz
+Are you aiming for a full-time position this time?
